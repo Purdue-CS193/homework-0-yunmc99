@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+# Minchae Yun's First CS193 Homework
+
+## Favorite things about CS 193
+- I love to learn about terminal
+- I like to learn about how to become professional develper
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
